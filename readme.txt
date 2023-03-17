@@ -1,3 +1,3 @@
-Git is a free software ...101
+Git is free software ...
 Creating a new branch is quick and simple.
 a
